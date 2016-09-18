@@ -2,9 +2,24 @@
 <html lang="en">
 <head>
   <meta charset="UTF-8">
-  <title>Document</title>
+  <title>vue cropper.js</title>
+  <link rel="stylesheet" href="cropper.css">
+  <script src="//cdn.bootcss.com/vue/1.0.26/vue.js"></script>
+  <script type="text/javascript" src="cropper.min.js"></script>
+  <style>
+    html,body {
+      height: 100%;
+      width: 100%;
+    }
+  </style>
 </head>
 <body>
-  hello world
+  <file-upload style="height:100px;width:100px;"></file-upload>
 </body>
+<script type="text/javascript">
+Vue.component('file-upload', FileUpload.default)
+  new Vue({
+    el: 'body'
+  })
+</script>
 </html>
