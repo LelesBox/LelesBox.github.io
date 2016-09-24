@@ -4,12 +4,12 @@
   
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="https://lelesbox.github.io/"/>
   <updated>2016-09-24T04:57:07.000Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>https://lelesbox.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>LeeBox</name>
     
   </author>
   
@@ -17,8 +17,8 @@
   
   <entry>
     <title>koa2 mvc scaffold</title>
-    <link href="http://yoursite.com/2016/09/22/koa2-mvc-scaffold/"/>
-    <id>http://yoursite.com/2016/09/22/koa2-mvc-scaffold/</id>
+    <link href="https://lelesbox.github.io/2016/09/22/koa2-mvc-scaffold/"/>
+    <id>https://lelesbox.github.io/2016/09/22/koa2-mvc-scaffold/</id>
     <published>2016-09-22T15:43:39.000Z</published>
     <updated>2016-09-24T04:57:07.000Z</updated>
     
@@ -51,14 +51,14 @@
     </summary>
     
     
-      <category term="readme" scheme="http://yoursite.com/tags/readme/"/>
+      <category term="readme" scheme="https://lelesbox.github.io/tags/readme/"/>
     
   </entry>
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2016/09/18/hello-world/"/>
-    <id>http://yoursite.com/2016/09/18/hello-world/</id>
+    <link href="https://lelesbox.github.io/2016/09/18/hello-world/"/>
+    <id>https://lelesbox.github.io/2016/09/18/hello-world/</id>
     <published>2016-09-18T10:36:50.000Z</published>
     <updated>2016-09-18T10:36:50.000Z</updated>
     
